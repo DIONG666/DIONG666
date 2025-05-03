@@ -1,7 +1,6 @@
-* Name:Yong Du
-* School:Central South University
-* Age:20
-* Sex:M
+* Name: Yong Du
+* School: Central South University
+* Age: 20
 * E-mail:diong1024.exe@gmail.com
 
 <!---
