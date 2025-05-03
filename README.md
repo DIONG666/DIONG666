@@ -1,4 +1,4 @@
-* Name:YongDu
+* Name:Yong Du
 * School:Central South University
 * Age:20
 * Sex:M
