@@ -1,7 +1,7 @@
 * Name: Yong Du
 * School: Zhejiang University
 * Age: 22
-* E-mail:diong1024.exe@gmail.com
+* E-mail: diong1024.exe@gmail.com
 
 <!---
 DIONG666/DIONG666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
